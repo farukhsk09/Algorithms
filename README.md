@@ -1,3 +1,2 @@
 # Algorithms
-# Sorting
-# quick sort
+ Sorting - quick sort - 14/08

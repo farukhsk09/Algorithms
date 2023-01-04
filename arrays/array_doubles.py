@@ -1,5 +1,6 @@
 # 954. Array of Doubled Pairs
 
+# Day 3 : hashmap embarassment
 class Solution:
     def canReorderDoubled(self, arr: List[int]) -> bool:
         arr.sort()
